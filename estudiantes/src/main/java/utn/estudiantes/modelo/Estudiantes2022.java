@@ -9,10 +9,10 @@ import lombok.*;
 @NoArgsConstructor // Constructor sin argumentos
 @AllArgsConstructor // Constructor con todos los argumentos
 @ToString // Método toString
-public class Estudiante {
+public class Estudiantes2022 {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer idEstudiante;
+    private Integer idestudiante;
     private String nombre;
     private String apellido;
     private String telefono;

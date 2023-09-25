@@ -1,5 +1,6 @@
 # Manejo de valores infinitos
 import math
+from decimal import Decimal
 
 infinito_positivo = float("inf")
 print(f"El valor de infinito_positivo es: {infinito_positivo}")

@@ -33,3 +33,8 @@ print(f"El valor de g es: {g}")
 #Base hexadecimal
 h = 0xA
 print(f"El valor de h es: {h}")
+
+#Base 5 sus valores son de 0 a 4
+i = int("10", 5)
+print(f"i = Base 5: {i}")
+

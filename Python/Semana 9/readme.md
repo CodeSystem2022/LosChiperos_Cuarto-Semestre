@@ -1,0 +1,1 @@
+Instalacion de la terminal de linux en windows

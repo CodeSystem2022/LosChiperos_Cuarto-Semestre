@@ -18,4 +18,4 @@
 | 🟢 semana 10 | *Martín Pertus* |
 | 🟢 semana 11 | *Barrios Schallmoser Juan José* |
 | 🟢 semana 12 | *Nicolás Zelarayan* |
-| ⚪ semana 13 | *Cristian Alderete* |
+| 🟢 semana 13 | *Cristian Alderete* |
